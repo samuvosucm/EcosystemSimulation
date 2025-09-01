@@ -8,6 +8,8 @@ monitorizar y probar distintos parámetros del comportamiento animal.
 
 Interfaz que ofrece las distinas opciones a realizar en el simulador: reanudar y pausar simulación, cargar datos de los animales, abrir mapa de la simulación, cambiar mapa de la simulación y cambiar el curso del tiempo en la simulación.
 
+Además, ofrece distintos datos a observar en el transcurso de la simulación.
+
 <img width="1156" height="736" alt="Captura de pantalla 2025-09-01 173537" src="https://github.com/user-attachments/assets/5a7b462f-c21b-46c2-a7ce-bb290321923c" />
 
 ## Interfaz del Mapa de la Simulación
