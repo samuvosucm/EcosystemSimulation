@@ -1,6 +1,6 @@
 # Simulador de Ecosistema
 El siguiente repositorio implementa un proyecto en el que se intenta simular el comportamiento de animales en un ecosistema así como ofrecer una herramienta práctica para
-monitorizar y probar distintos parámetros.
+monitorizar y probar distintos parámetros del comportamiento animal.
 
 # Interfaces
 
